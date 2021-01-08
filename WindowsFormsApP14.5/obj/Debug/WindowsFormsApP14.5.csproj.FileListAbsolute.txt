@@ -1,0 +1,10 @@
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\bin\Debug\WindowsFormsApP14.5.exe.config
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\bin\Debug\WindowsFormsApP14.5.exe
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\bin\Debug\WindowsFormsApP14.5.pdb
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\obj\Debug\WindowsFormsApP14.5.csprojAssemblyReference.cache
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\obj\Debug\WindowsFormsApP14._5.Form1.resources
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\obj\Debug\WindowsFormsApP14._5.Properties.Resources.resources
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\obj\Debug\WindowsFormsApP14.5.csproj.GenerateResource.cache
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\obj\Debug\WindowsFormsApP14.5.csproj.CoreCompileInputs.cache
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\obj\Debug\WindowsFormsApP14.5.exe
+C:\Users\XYZ\source\repos\WindowsFormsApP14.5\WindowsFormsApP14.5\obj\Debug\WindowsFormsApP14.5.pdb
